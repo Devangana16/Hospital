@@ -1,0 +1,11 @@
+#PatientID #Name #Doctor 
+42 Ms.Devangana Dr.Sharma
+33 Ms.Pooja Dr.Sharma
+78 Mrs.Naina Dr.Khan
+63 Mr.Arjun Dr.Kapoor
+99 Mr.Anil Dr.Sharma
+76 Mrs.Renuka Dr.Kapoor
+44 Mrs.Reena Dr.Khan
+56 Ms.Teju Dr.Sharma
+82 Mr.Mahesh Dr.Khan
+67 Ms.Trisha Dr.Sharma
